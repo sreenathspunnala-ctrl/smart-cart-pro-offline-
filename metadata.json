@@ -1,0 +1,5 @@
+{
+  "name": "SmartCart",
+  "description": "A high-performance grocery assistant with price tracking, templates, and bulk operations.",
+  "requestFramePermissions": []
+}
