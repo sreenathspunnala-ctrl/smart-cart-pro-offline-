@@ -1,0 +1,1 @@
+: This is my first project and was heavily "vibe-coded." I am still learning! If you are interested in fixing bugs, improving the architecture, or adding features, pull requests are incredibly welcome.
